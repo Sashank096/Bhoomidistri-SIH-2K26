@@ -755,21 +755,6 @@ The system combines government-process awareness with data, machine learning, an
 
 ---
 
-## 🤝 Contributors
-
-**BhoomiDrishti — Smart India Hackathon 2026**
-
-Add the final team member names, roles and profile links here before submitting the public repository.
-
-```text
-Team Members
-├── Member 1 — Role
-├── Member 2 — Role
-├── Member 3 — Role
-└── Member 4 — Role
-```
-
----
 
 ## ⚖️ Disclaimer
 
@@ -785,6 +770,6 @@ Any future production deployment should use only authorized data and infrastruct
 
 **From land-acquisition data to proactive decision support.**
 
-*Built for Smart India Hackathon 2026 · SIH26017*
+*Built for Smart India Hackathon 2026 *
 
 </div>
